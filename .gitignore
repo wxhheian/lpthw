@@ -2,5 +2,5 @@
 .DS_Store
 
 #python
-/_pycache_
+__pycache__/
 *.ipynb_checkpoints
